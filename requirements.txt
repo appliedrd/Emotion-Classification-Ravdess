@@ -51,7 +51,7 @@ Django==2.1.7
 django-anymail==6.0
 django-cors-headers==2.1.0
 django-filter==2.1.0
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 docutils==0.14
 entrypoints==0.2.3
 enum34==1.1.6
